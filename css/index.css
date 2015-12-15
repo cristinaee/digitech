@@ -1,11 +1,11 @@
 /* Main marketing message and sign up button */
 
-#profile-pic {
-     height: "100%";   
+.profile-pic {
+     width: 50px;   
 }
 
 .logo {
-    height: 70px;
+    height: 85px;
 }
 
 /* Jumbotron sytles */
